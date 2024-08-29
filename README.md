@@ -1,4 +1,4 @@
-## Myntra Clone
+## Website Clone
 Mytra Clone built using HTML5, CSS3.
 
 <a href="https://1109akshatverma.github.io/myntra_clone/" target="_blank">**Visit Now** 🚀</a>
